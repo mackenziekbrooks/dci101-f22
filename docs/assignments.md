@@ -1,24 +1,37 @@
 ## Specifications Grading
-The assignment and grading structure for this course might be a little different than what you're used to. In this course, we'll use something called *Specifications Grading*. The goals of the system are to reduce the stress and mystery of grades while also raising academic standards. I chose this system to complement the technologies and digital methods we will be learning this term, as well as to combat grade anxiety. It is more important to me that you explore and experiment with these methods than it is that you get the "right answer." It's hard to feel comfortable experimenting and making mistakes if you're worried about every point. 
+The assignment and grading structure for this course might be a little different than what you're used to. In this course, we'll use something called *Specifications Grading*. The goals of the system are to reduce the stress and mystery of grades while also raising academic standards. I chose this system to complement the technologies and digital methods we will be learning this term, as well as to combat grade anxiety. It is more important to me that you explore and experiment with these methods than it is that you get the "right answer." It's hard to feel comfortable experimenting and making mistakes if you're worried about every little point. 
 
-So rather than assign points or grades, I will mark each assignment as Complete/Incomplete according to a set of specifications. You must complete a certain number of assignments in each category to receive an A, B, C, etc. as listed below. You will receive three tokens to use in the case that you cannot turn in work on time or to complete an incomplete assignment. 
+So rather than assign points or grades, I will mark each assignment as Complete/Incomplete according to a set of specifications. 
 
-You will use Canvas to turn in assignments and to receive feedback. I will mark your assignments as complete/incomplete, however! Canvas will not be able to calculate your current grade with this system. You should rely on this page or this [handout](../assets/specs-grading-sheet.docx) to help calculate your grade. 	
+You must complete a certain number of assignments in each category to receive the corresponding grade, as seen in the table below. This means that your grade is always going up as you complete more assignments. It also means that you must complete the requisite number of assignments in each category to get the grade. If you complete all 11 blog posts, but only 4 project pieces, you will still earn a B-. 
+
+You will use Canvas to turn in assignments and to receive feedback. I will mark your assignments as complete/incomplete, however! Canvas will not be able to calculate your current grade with this system. You should rely on this page or this [handout](../assets/specs-grading-sheet.docx) (right click, save as) to help calculate your grade. 	
 
 This is a lot to get used to at first, so please ask any questions you have early in the semester. We will do a midterm check-in so you have a good understanding of where you are. 
 
-## Grading Scale
+### Grading Scale
 
 |To earn a...|Complete the following|
 |---|---|
-|A| 7 weekly activity logs<br /> 10-11 blog posts<br />  6 project pieces|
-|B| 6 weekly activity logs<br />  7-9 blog posts<br />  4-5 project pieces|
-|C| 4-5 weekly activity logs<br />  5-6 blog posts <br />  2-3 project pieces|
-|D| less than 4 weekly activity logs<br />  less than 5 blog posts<br />  1 project piece|
+|A| 7 weekly activity logs<br /> 11 blog posts<br />  6 project pieces|
+|A-| 7 weekly activity logs<br /> 10 blog posts <br /> 6 project pieces|
+|B+| 6 weekly activity logs<br />  9 blog posts<br />  5 project pieces|
+|B| 6 weekly activity logs<br />  8 blog posts<br />  5 project pieces|
+|B-| 6 weekly activity logs<br />  7 blog posts<br />  4 project pieces|
+|C+| 5 weekly activity logs<br />  6 blog posts <br />  3 project pieces|
+|C| 5 weekly activity logs<br />  5 blog posts <br />  3 project pieces|
+|C-| 4 weekly activity logs<br />  4 blog posts <br />  2 project pieces|
+|D| less than 4 weekly activity logs<br />  less than 4 blog posts<br />  1 project piece|
 
-## Tokens
+### Tokens
 
-You're not expected to be perfect at every assignment! To help you recover from any incomplete assignments, you will be assigned **three tokens**. Using a token will give you one week to revise and resubmit an assignment to receive credit. To use a token, you must email me with your intention to use a token, the assignment you wish resubmit, and the expected time frame. Using a token does not guarantee that you will receive a complete on the resubmission, but hopefully with my feedback you can get there. 
+You're not expected to be perfect at every assignment! To help you recover from any incomplete assignments, you will be assigned **three tokens**. Using a token will give you one week to revise and resubmit an assignment to receive credit. To use a token, you will submit an entry in Canvas declaring which assignment you're revising. I'll award a point in Canvas for each token you use, but these points are not factored into your final grade. Using a token does not guarantee that you will receive a complete on the resubmission, but hopefully with my feedback you can get there. 
+
+### Attendance Policy 
+
+I get it, life happens. If you need to miss class, please email me in advance (before noon on class day if possible). It helps me plan the class if I know how many studnets will be attending and keeps me from worrying that you've fallen in the river. After two unexcused absences, each subsequent unexcused absence will drop your final grade by 1/3 grade (from B+ to B, for example). 
+
+## Assignments 
 
 ## Weekly Activity Logs
 
@@ -48,8 +61,8 @@ First things first, you should have an idea of what you want to do and how you'r
 
 **Specifications:**
 
-* Draft due Monday, November 4 at 9am.
-* Final version due Monday, November 8th, at 9am. 
+* Draft due Monday, March 7 at 12pm.
+* Final version due Monday, March 14th, at 12pm. 
 * 750-1000 words.
 * Posted to your website in a designated project section. Turn in the link to this page on Canvas.
 * Address the following: 
@@ -67,7 +80,7 @@ Once you've proposed your project, it's time to get working with your data! This
 
 **Specifications:**
 
-* Due Monday, November 15th, at 9am. 
+* Due Monday, March 21, at 12pm. 
 * No word count requirement, but it should be at least 2-3 pages, if not more. The more detail the better! 
 * Posted to your website in a designated project section. Turn in the link to this page on Canvas.
 * Contains 4 pieces: 
@@ -83,7 +96,7 @@ Your humanities data project should include at least one (really awesome) visual
 
 **Specifications:**
 
-* Final visualizations due Monday, November 29th, at 9am. 
+* Final visualizations due Monday, March 28 at 12pm. 
 * Posted to your website in a designated project section. Turn in the link to this page on Canvas.
 * If your project involves an interactive visualization, it is okay to only one visualization (like a map with many layers). If you're working with static visualizations, like a graph, chart, or even some maps, create 2-5 visualizations.  
 * Visualizations should be clearly labled, with an accompanying short caption. The caption should explain the significance of this visualization and its connection to your research questions. 
@@ -96,7 +109,7 @@ Time to share your results! In this section, you'll describe the findings of you
 
 **Specifications:**
 
-* Due Monday, December 6th, at 9am. 
+* Due Monday, April 4, at 12pm.
 * Posted to your website in a designated project section. Turn in the link to this page on Canvas.
 * 750-1000 words.
 * Address the following:
@@ -113,7 +126,7 @@ No project is complete without time taken to reflect on its successes and lesson
 
 **Specifications:**
 
-* Due Friday, December 10th, at 11:59pm. 
+* Due Friday, April 8th, at 11:59pm. 
 * Submit as a document in Canvas. 
 * 500-1000 words. 
 * Address the following. Your answers should be about the course as a whole, not just your project topic.

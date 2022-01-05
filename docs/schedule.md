@@ -1,7 +1,7 @@
 
 **Jump to:**
 
-[Week 1](#week-1-how-the-web-works) \| [Week 2](#week-2-your-computer) \|  [Week 3](#week-3-data) \|  [Week 4](#week-4-visualization) \|  [Week 5](#week-5-network-analysis) \|  [Week 6](#week-6-network-analysis-spatial-analysis) \|  [Week 7](#week-7-mapping-text-analysis) \|  [Week 8](#week-8-text-analysis-project-planning) \|  [Week 9](#week-9-data-modeling) \|  [Week 10](#week-10-data-analysis-visualization) \|  [Week 11](#week-11-results-interpretation) \|  [Week 12](#week-12-wrapping-up-presentation) 
+[Week 1](#week-1-how-the-web-works) \| [Week 2](#week-2-your-computer) \|  [Week 3](#week-3-data) \|  [Week 4](#week-4-visualization) \|  [Week 5](#week-5-network-analysis) \|  [Week 6](#week-6-spatial-analysis) \|  [Week 7](#week-7-text-analysis) \|  [Week 8](#week-8-project-planning) \|  [Week 9](#week-9-data-modeling) \|  [Week 10](#week-10-data-analysis-visualization) \|  [Week 11](#week-11-results-interpretation) \|  [Week 12](#week-12-wrapping-up-presentation) 
 
 
 # Week 1 - How the Web Works
