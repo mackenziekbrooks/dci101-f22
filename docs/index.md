@@ -3,9 +3,9 @@ title: DCI 102 Data in the Humanities
 ---
 
 ## Course info
-Fall 2021 // TR 3:15-4:45pm
+Winter 2022 // TR 3:15-4:45pm
 
-The [course website](http://mackenziekbrooks.github.com/dci102-f21-humanitiesdata) is a living document. It will change regularly to reflect the needs of the course.
+The [course website](http://mackenziekbrooks.github.com/dci102-w22-humanitiesdata) is a living document. It will change regularly to reflect the needs of the course.
 
 
 ## Contact
