@@ -8,7 +8,7 @@
 
 ## Tuesday, January 11
 
-* Getting to know you [survey](https://forms.gle/yjEczMoSnybCTwc58)
+* Getting to know you [survey](https://forms.gle/MVnRBNCVUZzEPkuj6)
 * Class agenda:
 	* introductions + icebreaker: earliest memory of the internet? 
 	* course overview 

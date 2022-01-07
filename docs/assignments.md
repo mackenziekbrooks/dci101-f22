@@ -29,7 +29,7 @@ You're not expected to be perfect at every assignment! To help you recover from 
 
 ### Attendance Policy 
 
-I get it, life happens. If you need to miss class, please email me in advance (before noon on class day if possible). It helps me plan the class if I know how many studnets will be attending and keeps me from worrying that you've fallen in the river. After two unexcused absences, each subsequent unexcused absence will drop your final grade by 1/3 grade (from B+ to B, for example). 
+I get it, life happens. If you need to miss class, please email me in advance (before noon on class day if possible). It helps me plan our activities if I know how many students will be attending and keeps me from worrying that you've fallen in the river. After two unexcused absences, each subsequent unexcused absence will drop your final grade by 1/3 grade (from B+ to B, for example). 
 
 ## Assignments 
 
