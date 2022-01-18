@@ -13,15 +13,15 @@ This is a lot to get used to at first, so please ask any questions you have earl
 
 |To earn a...|Complete the following|
 |---|---|
-|A| 7 weekly activity logs<br /> 11 blog posts<br />  6 project pieces|
-|A-| 7 weekly activity logs<br /> 10 blog posts <br /> 6 project pieces|
-|B+| 6 weekly activity logs<br />  9 blog posts<br />  5 project pieces|
-|B| 6 weekly activity logs<br />  8 blog posts<br />  5 project pieces|
-|B-| 6 weekly activity logs<br />  7 blog posts<br />  4 project pieces|
-|C+| 5 weekly activity logs<br />  6 blog posts <br />  3 project pieces|
-|C| 5 weekly activity logs<br />  5 blog posts <br />  3 project pieces|
-|C-| 4 weekly activity logs<br />  4 blog posts <br />  2 project pieces|
-|D| less than 4 weekly activity logs<br />  less than 4 blog posts<br />  1 project piece|
+|A| 7 weekly activity logs<br /> 11 blog posts<br />  6 project pieces<br /> 0 unexcused absences|
+|A-| 7 weekly activity logs<br /> 10 blog posts <br /> 6 project pieces<br /> 1 unexcused absence|
+|B+| 6 weekly activity logs<br />  9 blog posts<br />  5 project pieces|<br /> 2 unexcused absences|
+|B| 6 weekly activity logs<br />  8 blog posts<br />  5 project pieces|<br /> 2 unexcused absences|
+|B-| 6 weekly activity logs<br />  7 blog posts<br />  4 project pieces|<br /> 2 unexcused absences|
+|C+| 5 weekly activity logs<br />  6 blog posts <br />  3 project pieces|<br /> 3 unexcused absences|
+|C| 5 weekly activity logs<br />  5 blog posts <br />  3 project pieces|<br /> 3 unexcused absences|
+|C-| 4 weekly activity logs<br />  4 blog posts <br />  2 project pieces|<br /> 3 unexcused absences|
+|D| less than 4 weekly activity logs<br />  less than 4 blog posts<br />  1 project piece|<br /> more than 3 unexcused absences|
 
 ### Tokens
 
@@ -29,7 +29,7 @@ You're not expected to be perfect at every assignment! To help you recover from 
 
 ### Attendance Policy 
 
-I get it, life happens. If you need to miss class, please email me in advance (before noon on class day if possible). It helps me plan our activities if I know how many students will be attending and keeps me from worrying that you've fallen in the river. After two unexcused absences, each subsequent unexcused absence will drop your final grade by 1/3 grade (from B+ to B, for example). 
+I get it, life happens. If you need to miss class, please email me in advance (before noon on class day if possible). It helps me plan our activities if I know how many students will be attending and keeps me from worrying that you've fallen in the river. 
 
 ## Assignments 
 

@@ -52,10 +52,10 @@
 
 ## Tuesday, January 18
 
-* How the Web Works!
+* Your Computer!
 * Class agenda: 
 	* [Icebreaker](http://mackenziekbrooks.github.io/icebreaker-generator/)
-	* [Course charter creation activity (on Box)](https://wlu.app.box.com/notes/862285371769)
+	* [Course charter creation activity (on Box)](https://wlu.app.box.com/notes/907144933825)
 	* Let's talk about the *Digital_Humanities* chapter.
 	* start [Activity 2.1](../your-computer/#activity-21) together
 
@@ -70,7 +70,7 @@
 	* icebreaker: 
 	* Talk about readings. Most of you came to this class to be challenged and expand your knowledge of technology. How's that going? How is it making you feel? How do these articles help you process those feelings?
 	* Talk about blog post #2 and final project 
-	* Start [Activity 2.3](../your-computer/#activity-23) and include [RTP Scavenger Hunt](https://wlu.app.box.com/notes/863621413858).
+	* Start [Activity 2.3](../your-computer/#activity-23) and include [RTP Scavenger Hunt]().
 
 ## Activity log week 2
 
