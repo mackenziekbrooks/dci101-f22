@@ -239,8 +239,8 @@ It's not that much fun to read, but you're a human, not a computer. In this exam
 ### Activity 3.1
 In this activity, we'll assess a dataset according to the criteria we've learned about in this section. 
 
-1. Download the [OakGroveCemetery.csv](https://wlu.box.com/s/zdhxo1svzm8ung5digj1bdhbrx1y51iz) file. 
-2. Open in Excel. Since this dataset is a CSV file, you may need to follow these instructions. The process may differ depending on what version of Excel you're using.
+1. Download the [OakGroveCemetery.csv](https://wlu.box.com/s/29nomunrdk2q0kldqfzuabspps69fgki) file. 
+2. Open in Excel (or Google Sheets if you're more comfortable there). Since this dataset is a CSV file, you may need to follow these instructions. The process may differ depending on what version of Excel you're using.
 	* Navigate to the Data tab in Excel.
 	* Select "From Text" then find your file.
 	* A wizard should pop up to walk you through the import process. It should automatically detect the commas, but if it doesn't, you will need to check the box to indicate that this file is delimited by commas. The data preview should separate each distinct column of data, rather than everything running together.
@@ -251,7 +251,7 @@ In this activity, we'll assess a dataset according to the criteria we've learned
 Let's take Open Refine for a spin in order to clean up this data set. 
 
 1. Download [Open Refine](http://www.openrefine.org) and run the program. Follow the [installation instruction](https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions) if you get stuck. It should open a new tab in your browser with the address `http://127.0.0.1:3333/`. This address is local to your computer, not something you can actually visit on the internet.
-2. Import the LexingtonCemetery.csv file. You will see a page of import options, you should be able to accept the defaults. 
+2. Import the `OakGroveCemetery.csv` file. You will see a page of import options, you should be able to accept the defaults. 
 3. Spend some time clicking on all the options in Open Refine to see what happens. Set a timer and spend 10-15 minutes playing around with the software before you turn to documentation or instructions. What can you learn in this time? If things get too messy, you can always exit out and start over.
 4. Now answer these questions: 
 	* What do the "Text Facet" or "Numeric Facet" features reveal about this data? Are there outliers that need investigation?

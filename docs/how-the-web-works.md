@@ -159,7 +159,7 @@ When you opened your HTML files in your browser, you were viewing your files loc
 
 1. Change your theme by going to `Appearance > Themes`. Select an installed theme, or find a new one with the `Add New` button. Activate multiple themes to try them out!
 2. Check your comment settings in `Settings > Discussion` to make sure your classmates will be able to comment on your posts. 
-3. Set up your menu (remember we'll have 3 units with similar assignments) by going to `Appearance > Menus`. You will need to create a menu, add pages to it, and select a location for that menu. This is usually the most confusing part of Wordpress! 
+3. Set up your menu by going to `Appearance > Menus`. You will need to create a menu, add pages to it, and select a location for that menu. This is usually the most confusing part of Wordpress! There should be a video tutorial in our Box folder.
 4. Before you start adding content to your site, play around with as many of the settings and features as possible. What do all the bells and whistles do? Add your own images or colors. This is *your* site!
 
 

@@ -87,21 +87,30 @@ Windows users: [Intro to Powershell](http://programminghistorian.org/lessons/int
 
 In this activity, we'll apply our new command line skills to working with a corpus of textual data. While we're not quite ready to learn about text analysis, when we get there, we will need to have our data ready. You might notice I just threw some new words at you - "corpus" and "textual." Don't freak out, these are just specific words to refer a collection (corpus) of textual (not numbers) data. Instead of a spreadsheet with rows and columns, we'll be working with individual documents groups together into folders. I am purposely giving you a kind of messy, but very much real, dataset to explore. It's okay if you get confused, but try to use these new commands to navigate through the dataset, rather than pointing and clicking. 
 
-1. Download the zip file of [this data set](https://github.com/wludh/dataset-RingtumPhi) by clicking the green Code button, then Download ZIP, and save it to your Desktop. 
+1. Download the zip file of [this data set](https://wlu.box.com/s/fgrp5eeyy8oqyitquaocje6us5mevz4u). If you absolutely do not have space, you can browse the data set here and maybe download small portions: [https://github.com/wludh/dataset-RingtumPhi](https://github.com/wludh/dataset-RingtumPhi)
 2. Unzip the file by double clicking or using an Extract All option. A zip file is a compression method for bundling up a lot of folders into one so it's easy to share. 
-3. While that's unzipping, take some time to explore the [Ring-tum Phi in the Digital Archive](https://dspace.wlu.edu/handle/11021/34829). Don't just look at the content, but think about the experience of browsing this digitized newspaper. Let's use this [scavenger hunt](https://wlu.app.box.com/notes/863621413858) to help us explore.
+3. While that's unzipping, take some time to explore the [Ring-tum Phi in the Digital Archive](https://dspace.wlu.edu/handle/11021/34829). Don't just look at the content, but think about the experience of browsing this digitized newspaper. Let's use this [scavenger hunt](https://wlu.app.box.com/notes/908516278495) to help us explore.
 3. Open the command line shell, and navigate to the folder you just downloaded. 
 4. Use `pwd` `cd` and `ls` to navigate through the folders.
 5. Can you mirror these action using your mouse and the Finder/Windows Explorer window? What are the differences? 
 6. In a Word document, answer the following questions:
-	* What is the basic file structure of the data set as you have received it? What about the file names? How can you use the file names to make sense of this data?
-    * What are the patterns? Where (or when) do the patterns change?
-    * What is the granularity (of the text files? Does each file contain one page? Issue? Reel? Volume? Year?
-    * Use cat to read a file. Find the manual for cat. What else can you do with this command? Can you find a way to combine all the text from one year/volume into a single file perhaps?
-    * What happens when you type `ls *.txt`?
-    * Can you figure out how to list all the file names in a single folder and send them to a new text file? You will have to do some Googling to figure this out, but you should have already learned the commands in the tutorials. 
-    * Last step: type history and paste your command history into the document. 
 
+**Part 1:** 
+
+* What is the basic file structure of the data set as you have received it? What about the file names? How can you use the file names to make sense of this data?
+* What are the patterns? Where (or when) do the patterns change?
+* What is the granularity (of the text files? Does each file contain one page? Issue? Reel? Volume? Year?
+* Use cat to read a file. Find the manual for cat. What else can you do with this command? Can you find a way to combine all the text from one year/volume into a single file perhaps?
+* What happens when you type `ls *.txt`?
+* Can you figure out how to list all the file names in a single folder and send them to a new text file? You will have to do some Googling to figure this out, but you should have already learned the commands in the tutorials. 
+* Last step: type history and paste your command history into the document. 
+
+**Part 2:**
+
+* How did using the digital version of the RTP compare to reading it in print?
+* What was easy about using the respository? What was difficult?
+* What about browsing the files on your computer? How did you manage manuvering through such a large data set? If you had time to reorganize, how would you do so? 
+* What research questions can you imagine answering with the Ring-tum Phi? How would you use the data contained in the Phi to answer thos questiosn? 
 
 
 ## Resources

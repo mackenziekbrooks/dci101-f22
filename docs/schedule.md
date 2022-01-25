@@ -63,20 +63,27 @@
 
 * Finish Activity 2.1 and 2.2 by class time.
 * Read [We Can All Be Technical With the Right Teacher](https://recompilermag.com/issues/issue-0/we-can-all-be-technical-with-the-right-teacher/) and [Some Things to Think About Before You Exhort Everyone to Code](http://miriamposner.com/blog/some-things-to-think-about-before-you-exhort-everyone-to-code/)
+* Take a look at [File Not Found](https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z)
 
 
 ## Thursday, January 20
+* Announcements:
+	* Summer research experience in Art Dept.
+	* UVA Data Science degree: 
+
+> Want to learn more? Assistant Director of Graduate Admissions, Bryan Christ, will be hosting an information session at Huntley Hall 220 on 2/7 from 7:00-8:30 PM (RSVP [here](https://applycentral.virginia.edu/register/?id=b10818f1-dc79-45f0-99f9-fbfe2df2fb1a)). Bryan will also host drop-in advising hours for the MSDS program on 2/7 from 9-11 AM at Lexington Coffee Shop (sign up [here](https://calendly.com/bryanchrist/uva-wl-msds-interest-meeting?month=2022-02)). 
+
 * Class agenda: 
-	* icebreaker: 
+	* icebreaker: favorite soup?
 	* Talk about readings. Most of you came to this class to be challenged and expand your knowledge of technology. How's that going? How is it making you feel? How do these articles help you process those feelings?
-	* Talk about blog post #2 and final project 
-	* Start [Activity 2.3](../your-computer/#activity-23) and include [RTP Scavenger Hunt]().
+	* Talk about blog post #2
+	* Start [Activity 2.3](../your-computer/#activity-23) and include [RTP Scavenger Hunt](https://wlu.app.box.com/notes/908516278495).
 
 ## Activity log week 2
 
 **Due Monday 1/25 at 12pm**
 
-1. Complete [Activity 2.3](../your-computer/#activity-23). In Canvas, submit a document with your answers. It is more important that you show your process, thinking, and attempts than it is that you get everything right.
+1. Complete [Activity 2.3](../your-computer/#activity-23). In Canvas, submit a document with your answers. It is more important that you show your process, thinking, and attempts than it is that you get everything right. It it totally acceptable to Google your way to an answer, just credit the sites that helped you answer the questions. This activity is designed to be a bit hard and to get you thinking about how to solve problems! 
 2. Blog post #2: Respond to the following prompt in a 500 word blog post on your Wordpress. In Canvas, submit the URL the blog post. Prompt:
 	- To help us conceptualize humanities data projects, let's look at a few more projects and the accompanying reviews. Scholarly articles and books are typically reviewed by other experts in the field. There are established procedures and venues for this kind of work, however DH projects do not always fit into those procedures. [Reviews in DH](https://reviewsindh.pubpub.org) is a new publication that "bridges the gap" by providing reviews of projects. For this blog post, you will explore and write about a project **before** reading the accompanying review, then read the review and see how your analysis lines up. 
 	- First, take a look at the [Review Content](https://reviewsindh.pubpub.org/review-process) (scroll down to get to this section. 
