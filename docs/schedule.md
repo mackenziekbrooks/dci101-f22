@@ -121,22 +121,19 @@
 * Class agenda: 
 	* icebreaker: 
 	* Part 1: Project talk & blog post 
-	* Part 2: Chat about readings within context of your data set from Tuesday.
+	* Part 2: [Activity 3.4](../data/#activity-34)
+	* Part 3: Chat about readings and the data we've encountered/made this week:
 		* Who put this data set together?
 		* What assumptions were made? 
 		* What problems/bias/gaps/harm might exist in this dataset?
 		* Is this smart data or big data?   
-	* Part 3: Data modeling and what I skipped from Activity 3.1. 
-		* For this class, your data model should include the field name, the data type, and a sentence or two about the type of content in this field. What's included and what's not? Be as detailed as possible!
-		* See [The Shape of Data in Digital Humanities](https://wlu.primo.exlibrisgroup.com/permalink/01WLU_INST/12srbpt/cdi_askewsholts_vlebooks_9781317016151) for (much) more on the concept of data modeling. 
-		> "modeling is a way to make explicit our assumptions about the nature of a text/artefact" - Michael Sperberg-McQueen
-	* Part 4: [Activity 3.4](../data/#activity-34)
+	
 
 ## Activity log week 3
 **Due Monday 1/31 at 12pm**
 
 1. Submit your answers from [Activity 3.3](../data/#activity-33) via a document in Canvas.  
-2. Blog post #3: Respond to the following prompt in 400-500 words. Time to start thinking about your project! You will conduct this project on your own, though we'll have plenty of opportunities for peer review and feedback. You will choose your topic, so it's time to start brainstorming. What types of humanities-based topics do you find compelling? What subjects are you interested in school and out of school? What might make a good data-driven topic? Maybe you've always wanted to see a map from a particular historical event, or analyze the word choice of a favorite author. Take time to brainstorm, mindmap, follow a Wikipedia trial, or whatever might help you with idea generation. 
+2. Blog post #3: Respond to the following prompt in 400-500 words. Time to start thinking about your project! You will conduct this project on your own, though we'll have plenty of opportunities for peer review and feedback. You will choose your topic, so it's time to start brainstorming. What types of humanities-based topics do you find compelling? What subjects are you interested in school and out of school? What might make a good data-driven topic? Maybe you've always wanted to see a map from a particular historical event, or analyze the word choice of a favorite author. Take time to brainstorm, mindmap, follow a Wikipedia trail, or whatever might help you with idea generation. 
 
 **For Tuesday**
 
