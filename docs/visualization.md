@@ -76,19 +76,12 @@ If you're just starting out, use Excel or Google Sheets to get comfortable. If y
 
 Before you start making your own visualizations, let's practice improving on existing visualizations. This activity focuses on the mechanics and aesthetics of visualizations.
 
-Groups: 
-
-1. Nayongi, Kaitlyn, Amanda, Lily
-2. Emma, Caitlyn, John, George
-3. Kit, Gavron, Maya, Quinn
-4. Elizabeth, Merrill, Richard
-5. Gabe, Mary Beth, Mark
 
 *** 
 
 1. Visit [viz.wtf](https://viz.wtf/) or [HelpmeViz](https://policyviz.com/helpmeviz/). 
-2. Browse the examples, then pick 1-2 visualizations to analyze as a group. 
-3. Answer the following in a [Box note](https://wlu.app.box.com/folder/147257344438) for your group. You will turn this in as homework this week!
+2. Browse the examples, then pick 2-3 visualizations to analyze as a group. 
+3. In this [Box folder](https://wlu.app.box.com/folder/155290780785), create a Box note for your group. You will turn this in as homework this week!
 	* First, link or embed your visualization or set of visualizations. List the names in your group. 
 	* What type of visualization is this? (Bar chart, line graph, etc?)
 	* What was the intended goal of this visualization?
@@ -111,12 +104,12 @@ Let's also make sure you can think critically about professional visualizations 
 
 ### Activity 4.3
 
-Now it's time to try your hand at creating your own visualization. Let's start with the Coeducation Report data set. You can use this [assembled data set](https://wlu.app.box.com/file/868731673760) or work on the one we assembled in [Google Sheets](https://docs.google.com/spreadsheets/d/1A8TL_uhRV5Y1XCLmXtR7IMFo_-Y7uhhyiSnjyybfNKE/edit?usp=sharing). Don't forget to download it to your own computer, so you don't alter the data for anyone else. 
+Now it's time to try your hand at creating your own visualization. Let's start with the Coeducation Report data set. You can use this [assembled data set](https://wlu.app.box.com/folder/154962600869) or work on the one we assembled in [Google Sheets](https://docs.google.com/spreadsheets/d/1ivS344buh7ZqJn-2sxRRZbNFLoirewIpmzPaXB_Ck0Q/edit?usp=sharing). Don't forget to download it to your own computer, so you don't alter the data for anyone else. 
 
 1. Brainstorm some potential visualizations. What do you want to communicate about this data set? What's interesting about it? How can a visualization help show an intriguing or important part of this data? 
 2. Narrow your list down to one or two ideas. What type of visualizations are you interested in using and how will they help you get at the information you want to convey? It might help to draw your viz on paper first so you have an idea of what you want to create. 
 3. Use Excel (see next section for a short tutorial) or Google Sheets to create a basic graph. Are you happy with it? Why or why not? How do different types of graphs change your understanding of the data? Try creating the same graph in both programs to see if there are any differences. 
-4. If you're still not happy with your graph, try [Raw Graphs](https://rawgraphs.io/). There are some wild options, is your graph still legible? 
+4. If you're still not happy with your graph, try [Raw Graphs](https://rawgraphs.io/) or [Flourish](https://flourish.studio/). There are some wild options, is your graph still legible? 
 
 For your blog post this week, go through this same process with the Cemetery data set. You may have to clean up fields in Open Refine or Excel to get the results you're looking for. Post several visualizations, along with a 300-400 word blog post on your results. What is your goal with these visualizations? How do they help you understand the data? How did you put these graphs together? Did you have to clean the data or look up how to create the graph? What did you struggle with? Are you happy with the results? What might you want to do with more time/skills? 
 
@@ -131,6 +124,7 @@ For your blog post this week, go through this same process with the Cemetery dat
 * [ColorBrewer](http://colorbrewer2.org/) - tool for creating distinct color palettes
 * [Data Viz Catalogue](https://datavizcatalogue.com/)
 * [Raw Graphs](https://rawgraphs.io/)
+* [Flourish](https://flourish.studio/)
 
 ## Readings
 * [Data + Design: A simple introduction to preparing and visualizing information](https://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0463d52f454.pdf)

@@ -155,15 +155,18 @@
 
 * Read [Chapter 3](https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/5) of Data Feminism.
 * Read [When the Designer Shows Up in the Design](https://www.propublica.org/article/when-the-designer-shows-up-in-the-design)
-* Read [The Historian's Macroscope - Making Your Data Legible: A Basic Introduction to Visualizations](http://www.themacroscope.org/?page_id=837) and subsequent sections
+* Read [The Historian's Macroscope - Making Your Data Legible: A Basic Introduction to Visualizations](http://web.archive.org/web/20160315222838/http://www.themacroscope.org/?page_id=837) and subsequent sections
 
 ## Thursday, February 3
 
 * Class agenda:
 	* icebreaker: 
-	* Discuss readings 
-	* [Activity 4.3](../visualization/#activity-43)
-	* Regroup 
+	* Discuss readings: at your table, tackle the following questions. How do the authors if *Data Feminism* answer? What is your own opinion and why do you feel that way? What evidence do you have?
+		* Should a visualization be designed to evoke emotion?
+		* Is visual minimalism really more netural?
+		* How might activating emotion help us learn, remember, communicate with data?
+		* How does the visualization you selected for Activity 4.2 fit into this conversation?  
+	* [Activity 4.3](../visualization/#activity-43) 
 
 ## Activity log week 4
 
@@ -171,7 +174,7 @@
 
 1. Turn in the results of [Activity 4.1](../visualization/#activity-41) on Canvas.
 2. Write 200-300 words on the visualization you found, addressing the questions in [Activity 4.2](../visualization/#activity-42). Select one passage from the *Data Feminism* chapter that relates to your analysis (this doesn't go into your word count). Turn this in as a document on Canvas. Be sure to include a link to the visualization.
-2. Blog post #4: For your blog post this week, go through the same process in [Activity 4.3](../visualization/#activity-43) with the Cemetery data set. You may have to clean up fields in Open Refine or Excel to get the results you're looking for. Post at least 2-3 visualizations, along with a 300-400 word blog post on your results. What is your goal with these visualizations? How do they help you understand the data? How did you put these graphs together? Did you have to clean the data or look up how to create the graph? What did you struggle with? Are you happy with the results? What might you want to do with more time/skills? What have you learned about data visualization? 
+2. Blog post #4: For your blog post this week, go through the same process in [Activity 4.3](../visualization/#activity-43) with the Cemetery data set. You may have to clean up fields in Open Refine or Excel to get the results you're looking for. You do not have to use ALL the data, you can slice it in ways that make sense to you (veterans from the 20th century or certain occupations from the 19th etc etc). Post at least 2-3 visualizations, along with a 300-400 word blog post on your results. What is your goal with these visualizations? How do they help you understand the data? How did you put these graphs together? Did you have to clean the data or look up how to create the graph? What did you struggle with? Are you happy with the results? What might you want to do with more time/skills? What have you learned about data visualization? 
 
 **For Tuesday**
 
