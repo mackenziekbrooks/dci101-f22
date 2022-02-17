@@ -94,10 +94,10 @@ There are a lot of options for tools that will create maps. In this activity, we
 
 Groups: 
 
-* Team Palladio: Nayongi, Gavron, Maya, Quinn
-* Team ArcGIS: George, Richard, Elizabeth, Lily
-* Team Google MyMaps: Caitlyn, Merrill, Kit, Gabe, Mark
-* Team Tableau: Emma, Kaitlyn, Amanda, John, Mary Beth
+* Team Palladio: George, Lilly, Brandon, Christina,
+* Team ArcGIS: Annie, Jess, Maggie, Sander, Kelsie
+* Team Google MyMaps: Anna, Ryan, Jewel, Emma, 
+* Team Tableau: Evan, Katie, Grace, Demetri, 
 
 Platforms:
 
@@ -107,7 +107,7 @@ Platforms:
 * [Tableau Public](https://public.tableau.com/en-us/s/)
 
 
-In your groups, answer the following questions. Record your answers in a Boxnote so that other students can consult the information. 
+In your groups, answer the following questions. Record your answers in a Boxnote in this [folder](https://wlu.app.box.com/folder/156496323908) so that other students can consult the information. 
 
 * Who created this tool? Is it open source? Is it free?
 * How do I use it? Browser or download? OS preference?

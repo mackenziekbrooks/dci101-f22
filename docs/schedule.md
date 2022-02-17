@@ -208,7 +208,7 @@
 
 ## Activity log week 5
 
-**Due Monday 2/15 at 12pm**
+**Due Monday 2/15 (meant to be 2/14) at 12pm**
 
 1. Spend some more time with the data and networks of [Activity 5.5](../network-analysis/#activity-55). Upload one network visualization to your website with 150-300 words on what worked and what didn't. What is this network telling you? What is it obscuring? What else do you need to know about the people in this network? Find one external source from our library or the Web that would help you learn more about the people.
 
@@ -232,10 +232,10 @@
 * Class agenda:
 	* icebreaker
 	* [Activity 6.1](../spatial-analysis/#activity-61) 
+	* [Activity 6.2](../spatial-analysis/#activity-62)
 
 **For Thursday:**
 
-* Prep for Thursday with [Activity 6.2](../spatial-analysis/#activity-62)
 * Read the following by class time:
 
 	* ['ICE Is Everywhere': Using Library Science to Map the Separation Crisis](https://www.wired.com/story/ice-is-everywhere-using-library-science-to-map-child-separation/) and the [Torn Apart](http://xpmethod.columbia.edu/torn-apart/volume/2/index) project.
