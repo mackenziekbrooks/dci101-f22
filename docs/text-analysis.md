@@ -166,7 +166,7 @@ One final note on copyright. Creative works published after 1925 (as of 2020) ar
 
 ### Activity 7.1 - 4 Ways of Reading a Text
 
-In this activity, we'll work through Prof. Brandon Walsh's "4 Ways of Reading a Text" lecture. To prepare, please print one copy of this [handout packet](../assets/4waystoread-handouts.docx). 
+In this activity, we'll work through Prof. Brandon Walsh's "4 Ways of Reading a Text" lecture. To prepare, please print one copy of this [handout packet](https://wlu.app.box.com/file/925227175997). 
 
 
 ### Activity 7.2 - Voyant

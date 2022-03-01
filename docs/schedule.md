@@ -263,12 +263,12 @@
 	* [Visualizing Emancipation](http://dsl.richmond.edu/emancipation/)
 	* [DECIMA](https://decima-map.net/)
 
-3. You should also be thinking about your project and making notes for your draft project proposal. You will need to turn it in this Thursday.
+3. You should also be thinking about your project and making notes for your draft project proposal. It's due at the beginning of Week 8!
 
 **For Tuesday:**
 
 * Read [Text Analysis](../text-analysis) by class time. 
-* Print out this [activity packet](https://wlu.app.box.com/file/877603261081) before class! 
+* Print out this [activity packet](https://wlu.app.box.com/file/925227175997) before class! 
 
 
 # Week 7 - Text Analysis 
@@ -300,7 +300,7 @@
 
 # Week 8 - Project Planning
 
-We'll schedule individual meetings this week to discuss your project. Sign up for a time on Box. If you switch your time, please email me to let me know! 
+We'll schedule individual meetings this week to discuss your project. [Sign up for a time on Box](https://wlu.app.box.com/notes/925228823698). If you switch your time, please email me to let me know! 
 
 **Due Monday 3/14 at 12pm**
 
