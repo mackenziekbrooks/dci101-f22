@@ -287,6 +287,12 @@
 
 * Agenda
 	* icebreaker!
+	* Project freewrite. Take 5 minutes and address the following: 
+		* How am I feeling about my project? 
+		* What research do I need to do before writing my proposal?
+		* What analysis and visualization methods am I interested in? 
+		* What questions do I have for Prof. Brooks? 
+		* What are my immediate next steps? 
 	* [Activity 7.2](../text-analysis/#activity-72-voyant) 
 
 
@@ -295,7 +301,7 @@
 **Due Monday 3/7 at 12pm**
 
 1. [Activity 7.3](../text-analysis/#activity-73)
-2. Draft your project proposal in preparation for next week's consults. This will be your week 7 blog post. It's okay if it's full of questions! 
+2. Draft your project proposal in preparation for next week's consults. It's okay if it's full of questions! 
  
 
 # Week 8 - Project Planning
@@ -304,7 +310,8 @@ We'll schedule individual meetings this week to discuss your project. [Sign up f
 
 **Due Monday 3/14 at 12pm**
 
-1. Your [final project proposal](../assignments/#project-proposal) is due.
+1. Your [final project proposal](../assignments/#project-proposal) is due. This version of the proposal should be more on the formal side - less "I think" or "I will" and more academic. You can use section headings if you'd like. Try to present the context and the "so what" for your topic. 
+2. Week 8 blog post: 150-200 word on the revisions you made to your proposal after our meeting. 
 
 # Week 9 - Data Modeling
 
@@ -326,9 +333,7 @@ We'll schedule individual meetings this week to discuss your project. [Sign up f
 		* Using this [definition](https://okfn.org/opendata/) of open data, evaluate your licenses against the three key features. 
 		* Which of these features makes sense for your project? Are you creating original data or do you need to be more concerned with *attribution* of someone else's data? 
 		* Share your findings with your neighbor.
-	* Wordpress work
-		* Return to your three favorite projects of the class. Let's look at their websites. What do you like? What don't you like? How do they organize their project pages? How do they style their website to reflect the goals of their project? 
-		* Your turn: let's do a quick check-up on your WordPress site. Is it ready to receive all your project material? Show your site to your classmate and ask their opiion. 
+
 
 **Due Monday 3/21 at 12pm**
 
@@ -344,16 +349,17 @@ We'll schedule individual meetings this week to discuss your project. [Sign up f
 ## Tuesday, March 22
 
 * Class agenda:
-	* icebreaker: 
-	* project management chitchat
-	* visualization peer review, let's use this Boxnote.
+	* icebreaker: you're building your dream house. What's the one feature/room you have to have?
+	* Wordpress work
+		* Return to your three favorite projects of the class. Let's look at their websites. What do you like? What don't you like? How do they organize their project pages? How do they style their website to reflect the goals of their project? 
+		* Your turn: let's do a quick check-up on your WordPress site. Is it ready to receive all your project material? Show your site to your classmate and ask their opinion.  	
 	 
 
 ## Thursday, March 24
 
 * Class agenda:
 	* icebreaker: 
-	* activity: Put away distractions and let's do a little free writing. Compose a note to yourself for after break when you're back in thick of it. What have you done so far for this class that you're proud of? Or impressed that you were able to do? What progress have you made on your project so far? What stage is your project at right now and how do you feel about it? What do you want to remember about your project when you pick it back up? Finally, set your intentions for today. What do you want to accomplish? What questions do you have? 
+	* * visualization peer review, let's use this Boxnote.
 	* project work
 
 **Due Monday 3/28 at 9am**
