@@ -359,7 +359,7 @@ We'll schedule individual meetings this week to discuss your project. [Sign up f
 
 * Class agenda:
 	* icebreaker: 
-	* * visualization peer review, let's use this Boxnote.
+	* * visualization peer review, let's use this [Boxnote](https://wlu.app.box.com/notes/934509522329).
 	* project work
 
 **Due Monday 3/28 at 9am**
@@ -381,7 +381,7 @@ Prepare a draft (500 words) of your analysis/results for peer review on Thursday
 
 * Icebreaker!
 * Project work
-* [Peer review](https://wlu.app.box.com/notes/891483078081)
+* [Peer review](https://wlu.app.box.com/notes/938760454237)
 
 **Due Monday 4/4 at 12pm** 
 
@@ -401,7 +401,7 @@ Prepare a draft (500 words) of your analysis/results for peer review on Thursday
 ## Tuesday, April 5
 
 * Class agenda: 5 minute project presentations 
-* [Final project links]
+* [Presentation sign up and links](https://wlu.app.box.com/notes/938880144018)
 
 ## Thursday, April 7 
 
