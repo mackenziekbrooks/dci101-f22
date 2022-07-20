@@ -1,9 +1,9 @@
 ---
-title: DCI 102 Data in the Humanities
+title: DCI 101 Intro to Digital Culture & Information
 ---
 
 ## Course info
-Winter 2022 // TR 3:15-4:45pm
+Fall 2022 // TR 3:15-4:45pm
 
 The [course website](http://mackenziekbrooks.github.com/dci102-w22-humanitiesdata) is a living document. It will change regularly to reflect the needs of the course.
 
@@ -14,18 +14,12 @@ Mackenzie Brooks // Associate Professor & Digital Humanities Librarian // (she/h
 
 brooksm@wlu.edu // 540-458-8659 // Leyburn 218
 
-Office hours: TR 1:30-3:00pm
+Office hours: TR 1:30-3:00pm or by appointment 
 
 ## Course description
-This course introduces students to the creation, use, and visualization of data in humanities-based research. The course is predicated on the fact that the digital turn of the last several decades has drastically changed the nature of knowledge production and distribution. In the 21st century, we must develop fluencies in media beyond the printed word such as text mining, network analysis, data visualization, and spatial analysis. Readings and discussions of theory from the field and set of practices that is Digital Humanities (DH) will complement hands-on application of digital methods and computational thinking. While the objects of our study will primarily come from the humanities, the methods of analysis are widely applicable to the social and natural sciences. 
-
 
 ## Course objectives
-* Recognize and assess data-driven digital projects.
-* Integrate research goals and digital methods with discipline-specific inquiry.
-* Develop skills necessary to create, structure, clean, manipulate, and visualize data.
-* Engage in collaborative, interdisciplinary, project-based learning.
-* Create professional website to document and present unit assignments.
+
 
 ## DCI Learning Outcomes
 * Develop critical capacities for analyzing the role of technology and digital media in contemporary culture, and apply those capacities to a range of disciplinary and interdisciplinary inquiries.
@@ -45,9 +39,6 @@ This course introduces students to the creation, use, and visualization of data 
 * This course will mix theory and hands-on work. Be prepared to think critically about technology AND to get your hands dirty in a little bit of code.
 * The DH community values experimentation and productive failure, often in public. We will learn from how and why things don’t work. We are not just going to talk about what we’re learning but how we’re learning it. Give yourself a break from perfectionism!
 
-## Pandemic protocols
-
-* We're still a pandemic and it sucks! Even though W&L is trying to have a normal year, things are still going to be weird and hard. Show grace to yourself, your classmates, and your instructor. 
 
 
 ## Required texts
@@ -83,7 +74,5 @@ All writing should be your own or should be cited properly. The writing assignme
 
 
 ## Acknowledgments
-* Thanks to Paula Kiser, Digital Scholarship Librarian at W&L, for her feedback and contributions to this coursebook. 
-* This coursebook was inspired by the [Text Analysis Coursebook](http://walshbr.com/textanalysiscoursebook/) created by [Brandon Walsh]() and [Sarah Horowitz](). Both should be acknowledged beyond the coursebook for their generous and ongoing conversations about pedagogy and Digital Humanities. 
-* Manatee icon credit: [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](http://www.flaticon.com).
+
 
