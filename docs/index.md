@@ -2,7 +2,6 @@
 title: DCI 101 Intro to Digital Culture & Information
 ---
 
-## Course info
 Fall 2022 // TR 3:15-4:45pm
 
 The [course website](http://mackenziekbrooks.github.com/dci101-f22) is a living document. It will change regularly to reflect the needs of the course.
@@ -39,6 +38,7 @@ Students will:
 * Develop digital projects that contribute to the scholarly conversation in the student's field of study and demonstrate an awareness of the technological and critical needs of the discipline.
 * Develop an online professional identity and a portfolio of work in the minor.
 
+Learn more about the [DCI minor on our website](http://go.wlu.edu/dci).
 
 ## Course protocols
 

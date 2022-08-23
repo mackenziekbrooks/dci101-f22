@@ -1,3 +1,5 @@
+Table of Contents: [Specifications Grading](#specifications-grading) \| [Assignment](#assignments)
+
 ## Specifications Grading
 The assignment and grading structure for this course might be a little different than what you're used to. In this course, we'll use something called *Specifications Grading*. The goals of the system are to reduce the stress and mystery of grades while also raising academic standards. I chose this system to complement the technologies and digital methods we will be learning this term, as well as to combat grade anxiety. It is more important to me that you explore and experiment with these methods than it is that you get the "right answer." It's hard to feel comfortable experimenting and making mistakes if you're worried about every little point. 
 
