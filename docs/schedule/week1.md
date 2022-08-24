@@ -1,9 +1,12 @@
-## What is DCI?
+# Week 1 - What is DCI?
 
 In our first week, let's unpack what we even mean by digital culture and information. How do we define something that we are surrounded by every day? How do we talk about it? Study it? Analyze it? Critique it?
 
 
 ## Thursday, September 8
+
+Agenda:
+
 * ice breaker: what is your earliest memory of the internet?
 * syllabus day/course overview
 * Activity 1.1 - HTML

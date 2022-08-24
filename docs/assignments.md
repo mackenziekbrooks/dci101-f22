@@ -1,142 +1,69 @@
-Table of Contents: [Specifications Grading](#specifications-grading) \| [Assignment](#assignments)
 
-## Specifications Grading
-The assignment and grading structure for this course might be a little different than what you're used to. In this course, we'll use something called *Specifications Grading*. The goals of the system are to reduce the stress and mystery of grades while also raising academic standards. I chose this system to complement the technologies and digital methods we will be learning this term, as well as to combat grade anxiety. It is more important to me that you explore and experiment with these methods than it is that you get the "right answer." It's hard to feel comfortable experimenting and making mistakes if you're worried about every little point. 
+## Blog posts
 
-So rather than assign points or grades, I will mark each assignment as Complete/Incomplete according to a set of specifications. 
+Each week you’ll write a 300-500 word blog post on your website in response to a prompt. Prompts will invite you to dig deeper into readings, discussion topics, or your own experiences. These posts aren't meant to be busy work, rather they're a chance for you to practice thinking critically and analyzing information. They help me know what you're thinking and *how* you're thinking. Plus, I know that talking a lot in class isn't for everyone. Think of these posts as an extension of your participation. You don't have to know all the answers, just be thoughtful in your questions! 
 
-You must complete a certain number of assignments in each category to receive the corresponding grade, as seen in the table below. This means that your grade is always going up as you complete more assignments. It also means that you must complete the requisite number of assignments in each category to get the grade. If you complete all 11 blog posts, but only 4 project pieces, you will still earn a B-. 
+**General specifications:**
 
-You will use Canvas to turn in assignments and to receive feedback. I will mark your assignments as complete/incomplete, however! Canvas will not be able to calculate your current grade with this system. You should rely on this page or this [handout](../assets/specs-grading-sheet.docx) (right click, save as) to help calculate your grade. 	
+* Create a WordPress post, then turn in the URL in Canvas. 
+* 300-500 words.
+* Free from grammatical errors, typos. 
+* Credit and link out to sources when appropriate. I won't require that you use a certain citation style, but you should be in the habit of crediting sources and using in-text links. If you feel better about using a formal citation style, go for it! 
 
-This is a lot to get used to at first, so please ask any questions you have early in the semester. We will do a midterm check-in so you have a good understanding of where you are. 
+## Activity log 
 
-### Grading Scale
+Each week we’ll learn a new skill together in class. The activity log will document the ways you practice and build that skill on your own. Logs will be submitted on your website or as a document in Canvas. 
 
-|To earn a...|Complete the following|
-|---|---|
-|A| 7 weekly activity logs<br /> 11 blog posts<br />  6 project pieces<br /> 0 unexcused absences|
-|A-| 7 weekly activity logs<br /> 10 blog posts <br /> 6 project pieces<br /> 1 unexcused absence|
-|B+| 6 weekly activity logs<br />  9 blog posts<br />  5 project pieces|<br /> 2 unexcused absences|
-|B| 6 weekly activity logs<br />  8 blog posts<br />  5 project pieces|<br /> 2 unexcused absences|
-|B-| 6 weekly activity logs<br />  7 blog posts<br />  4 project pieces|<br /> 2 unexcused absences|
-|C+| 5 weekly activity logs<br />  6 blog posts <br />  3 project pieces|<br /> 3 unexcused absences|
-|C| 5 weekly activity logs<br />  5 blog posts <br />  3 project pieces|<br /> 3 unexcused absences|
-|C-| 4 weekly activity logs<br />  4 blog posts <br />  2 project pieces|<br /> 3 unexcused absences|
-|D| less than 4 weekly activity logs<br />  less than 4 blog posts<br />  1 project piece|<br /> more than 3 unexcused absences|
+Specifications will depend on specific activity. 
 
-### Tokens
+## Digital essay 
 
-You're not expected to be perfect at every assignment! To help you recover from any incomplete assignments, you will be assigned **three tokens**. Using a token will give you one week to revise and resubmit an assignment to receive credit. To use a token, you will submit an entry in Canvas declaring which assignment you're revising. I'll award a point in Canvas for each token you use, but these points are not factored into your final grade. Using a token does not guarantee that you will receive a complete on the resubmission, but hopefully with my feedback you can get there. 
+Your big project for this course is the composition of a question-driven digital essay on a topic related to digital culture and information. The digital essay will combine text (1500-2000 words) and a multimedia or other digital component using at least one of the analysis methods we learn in class. Work on this project will be distributed throughout the course through research, a proposal, process updates, and a final presentation. The subject of your digital essay is up to you provided it is related to digital culture and information and is approved by the instructor. Essays will be posted to your website. 
 
-### Attendance Policy 
-
-I get it, life happens. If you need to miss class, please email me in advance (before noon on class day if possible). It helps me plan our activities if I know how many students will be attending and keeps me from worrying that you've fallen in the river. 
-
-## Assignments 
-
-## Weekly Activity Logs
-
-Each week you'll complete several activities designed to increase your familiarity with your computer, digital methods, and digital tools. Many of these activities will be started or completed together in our class sessions, but some you'll be expected to do on your own. Activities will be about learning a process or method, rather than delivering the right answer. You will share your results on your website and instructions for what to share will be posted on the schedule with the due date. You'll turn in this work on Canvas and receive feedback there. 
-
-## Blog posts 
-
-Each week you'll write a 300-500 word blog post on your course website. Prompts will be provided with each week's activity log, posted on the schedule. These posts will ask you to do one or more of the following: 1) reflect on what you've learned this week 2) make connections between new skills and readings or 3) get you thinking and prepared for the project.
-
-## Humanities Data Project
-
-In the second half of the term, you will design and conduct an independent data-driven project. This project asks you adopt one or more of the methods we've learned so far and apply it to a humanities-based topic of your choosing. You will select a text or body of material, identify potential research questions, create a data model and data set, then visualize and analyze your data in a way that attempts to address your research questions. You can read more about how this will work in the [Process](process.md) section. 
-
-The project will consist of six pieces: 
-
-1. Project proposal draft
-2. Project proposal
-3. Data documentation
-4. Data visualization
-5. Results
-6. Reflection
+Why an essay? While this might feel like a familiar format to you from high school etc, I'd invite you to put aside what you know about the form. Essay comes from the French *to try* and that's where you should start your thinking for this assignment. That doesn't mean your standards should be low, but you should think about this assignment as an *attempt* to do something new. How do you write about digital culture? How do you study it? How do you analyze it? We spend so much of our time on these platforms, but it can be hard to pin down exactly what they're doing. This course is an exploration of the methods for studying digital culture and this assignment should engage at least one of those methods, recognizing that they are new to you and new to other scholars. And recognizing that we have a short time frame to construct these essays!  
 
 
-### Project Proposal 
+## Digital Essay Components 
 
-First things first, you should have an idea of what you want to do and how you're going to do it. During the first half the term, we'll set time aside for brainstorming and researching your project. In the proposal, you will identify the topic of your project, some potential research questions, show evidence of research, indicate the methods you intend to pursue, and designate your own standards for success. We'll meet one-on-one during Week 8 to discuss your plans. 
+### Annotated Bibliography
+
+You are not doing this work in a vacuum! It's important to have a sense of the existing scholarship and research in whatever area you're writing about. We might not have a class in it at W&L, but that does not mean that there's not a scholar out there doing similar work. Knowing where to look and how to look is an essential research skill that will benefit you in college and beyond. We'll have at least one session in class dedicated to finding resources. 
 
 **Specifications:**
 
-* Draft due Monday, March 7 at 12pm.
-* Final version due Monday, March 14th, at 12pm. 
-* 750-1000 words.
-* Posted to your website in a designated project section. Turn in the link to this page on Canvas.
+* Due Week X
+* Published to your website, submitted on Canvas. 
+* 6-10 sources. 3 must be scholarly sources (books, journal articles, or peer reviewed web sources). 
+* Each source should be formatted in an established citation style of your choosing. Use [Zotero](http://library.wlu.edu/zotero) if it helps! 
+* Annotations should be at least two sentences. In the first sentence, summarize the source. In the second sentence, say something about why this source is useful for your project. 
+
+### Proposal
+
+Time to commit! What is your digital essay going to be about? What questions are you interested in asking? What methods are you hoping to use? What drew you to this topic? 
+
+**Specifications:**
+
+* Due Week X
+* Published your website, submitted on Canvas.
+* 300-500 words. 
 * Address the following: 
-	* What is the topic of your project? What led you to this topic?
-	* What is the source of your data? Tell me about it. 
-	* What are some potential research questions (at least two)? What discipline are you situating yourself in? 
-	* What is your proposed method of analysis? 
-	* What research have you done on your topic? Cite at least 2-3 scholarly sources and any less-than-scholarly sources that are relevant. 
-	* What will success look like for you? Is there a skill you want to develop? Do you want to advance your knowledge on a particular method or topic? 
-* Include a proposed schedule and list of tasks to complete your project. You can adjust this as you go, but it's good to give it some thought now. 
+	* 
 
-### Data Documentation
+### Digital Essay 
 
-Once you've proposed your project, it's time to get working with your data! This part of the project is going to look different for everyone, so the important part is that you document what you're doing and how you're doing it. 
+**Specifications**
 
-**Specifications:**
-
-* Due Monday, March 21, at 12pm. 
-* No word count requirement, but it should be at least 2-3 pages, if not more. The more detail the better! 
-* Posted to your website in a designated project section. Turn in the link to this page on Canvas.
-* Contains 4 pieces: 
-	* Part 1: Data Model - In this document, you will identify the structure of your data, list all the fields you will be using in your dataset, the format and data type of those fields, and the source of the data for those fields. If your project involves a text corpus, you should list the scope and rationale of your corpus, as well as the source of the data. A network analysis project should include an edge list and an attribute table, with details about each attribute. **Include 1-2 paragraphs of a narrative description/introduction to your data. Describe the sources and justify their inclusion in your project.** 
-	* Part 2: Data Plan - Describe your process for creating this data set according to your model. Will you be transcribing from a book? Copying from multiple sources? Is there data to be cleaned or transformed? OCR to be done? List the steps in detail. Identify any potential challenges to your plan. 
-	* Part 3: Data License - Under what license will you release this data? How are you crediting your sources? How should others cite your work? Consult [Open Data Commons](https://opendatacommons.org/) or [Creative Commons](http://www.creativecommons.org/) for licenses. Feel free to go back through the projects we've looked at already to see how they license their data. 
-	* Part 4: The actual data itself. This should be uploaded to your WordPress site and linked from your project page, near the data license. It is okay if your data is not complete yet, but you should have an initial draft available. A zip file might help get it uploaded to WordPress.
+* Due Week 12
+* Published to the web on your domain. You can choose one of the following:
+	* A section of your course WordPress site.
+	* A new WordPress installation dedicated to your essay.
+	* A subdomain built with hand-coded HTML/CSS or a framework like Bootstrap.
+* 1500-2000 words in the main body of the essay. 
+* A clearly defined structure to your essay that takes advantage of the digital medium. Don't just copy and paste a Word doc! Use headings or separate pages. In general, you want sections like: introduction, lit review, methods, results, bibliography. But you're free to be creative with how they come together! 
+* You can re-use content from previous assignments, but you should revise any text based on feedback and to ensure it flows with the entire essay.  
+* Use at least one of the methods we learned this term (data viz, text analysis, web scraping, mapping). How you incorporate these methods is going to depend a lot on your topic and your questions. 
 
 
-### Data Visualization 
 
-Your humanities data project should include at least one (really awesome) visualization or more than one (really good) visualizations. The visualizations should reflect your chosen method of analysis - a network graph, map, etc. Your visualization should adhere to the design principles we covered in week 4. 
-
-**Specifications:**
-
-* Final visualizations due Monday, March 28 at 12pm. 
-* Posted to your website in a designated project section. Turn in the link to this page on Canvas.
-* If your project involves an interactive visualization, it is okay to only one visualization (like a map with many layers). If you're working with static visualizations, like a graph, chart, or even some maps, create 2-5 visualizations.  
-* Visualizations should be clearly labled, with an accompanying short caption. The caption should explain the significance of this visualization and its connection to your research questions. 
-* Visualization should follow the [design principles](../visualization/#what-makes-a-good-visualization) we've covered in class. 
-
-### Results
-
-Time to share your results! In this section, you'll describe the findings of your data analysis and visualization. You should attempt to answer your research question. If you find you cannot answers those questions, talk about why and speculate as to what new research questions you might pursue instead. Your results should be grounded in the discipline that you identified in the proposal. You should use your data visualizations to illustrate your points. Think of this as a data-driven digital essay. Do not be afraid to address the limitations, set-backs, or future directions for this project. 
-
-
-**Specifications:**
-
-* Due Monday, April 4, at 12pm.
-* Posted to your website in a designated project section. Turn in the link to this page on Canvas.
-* 750-1000 words.
-* Address the following:
-	* What have you learned about your topic or how have you addressed your research questions by putting together your data set? 
-	* What have you learned through the process of visualizing your data? 
-	* What disciplinary angle did you take? How do your results advance a conversation in that discipline? Use a source or two to demonstrate this. 
-	* What are future directions of this project? What work needs to be done (by you or someone else)? What would the project look like if with more time/data/analysis/visualizations? 
-	* What were the problems or challenges with your method?
-
-### Reflection 
-
-No project is complete without time taken to reflect on its successes and lessons learned. Talk about your feelings! What have you learned about humanities data? What have you learned about yourself and the way you learn new things? 
-
-
-**Specifications:**
-
-* Due Friday, April 8th, at 11:59pm. 
-* Submit as a document in Canvas. 
-* 500-1000 words. 
-* Address the following. Your answers should be about the course as a whole, not just your project topic.
-	* What have you learned? Which of these things is most important to you? What did you learn about the material that you didn't expect? What did you learn about yourself?
-	* What has been challenging? Why? 
-	* Think back to the start of class and blog post #1. How has your relationship with technology changed? What about your conception of data? Have you met your own goals for this course? 
-	* Revisit the [objectives](../#course-objectives) for this course. Did we address those objectives?
-	* If you could do it all again, what would you do differently? 
-	* How can you apply the things you learned in this course to future courses or non-academic endeavors? 
 
 

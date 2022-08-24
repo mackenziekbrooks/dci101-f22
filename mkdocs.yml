@@ -1,4 +1,4 @@
-site_name: DCI 101 - Fall 2022
+site_name: DCI 101 - Introduction to Digital Culture and Information 
 base_url: https://mackenziekbrooks.github.io/dci101-f22
 
 theme: 
@@ -11,6 +11,8 @@ theme:
   palette: 
     primary: lime    
 
+  logo: images/noun-tv-culture.png
+  favicon: images/noun-tv-culture.png
 
 plugins:
   - search
@@ -20,9 +22,19 @@ markdown_extensions:
         permalink: "#"
 
 nav:
-  - Course Info: index.md
+  - Course Info:
+    - Course info: index.md
+    - Policies: policies.md
+    - Protocols: protocols.md
   - Schedule:
     - Week 1: schedule/week1.md
     - Week 1 w/ jury duty: schedule/week1-juryduty.md
     - Week 2: schedule/week2.md
-  - Assignments: assignments.md
+    - Week 3: schedule/week3.md
+    - Week 4: schedule/week4.md
+    - Week 5: schedule/week5.md
+    - Week 6: schedule/week6.md
+    - Week 7: schedule/week7.md
+  - Assignments:
+    - Assignments: assignments.md
+    - Specs Grading: grading.md

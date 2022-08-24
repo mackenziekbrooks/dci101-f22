@@ -244,7 +244,7 @@ Description
 
 ## Tuesday, October 11, 2022
 * Prof. Brooks at a conference
-* Guest classby Prof. Emily Cook (Research and Instruction Librarian)
+* Guest class by Prof. Emily Cook (Research and Instruction Librarian)
 
 ## Thursday, October 13, 2022
 * No class! Reading days!

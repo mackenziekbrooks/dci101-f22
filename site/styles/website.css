@@ -41,7 +41,19 @@ h1:hover .headerlink, h2:hover .headerlink, h3:hover .headerlink, h4:hover .head
 	font-family: Courier New;
 }
 
-.label, .label-blue { display: inline-block; padding-top: 0.16em; padding-right: 0.42em; padding-bottom: 0.16em; padding-left: 0.42em; margin-right: 0.25rem; margin-left: 0.25rem; color: #fff; text-transform: uppercase; vertical-align: middle; background-color: #2869e6; font-size: 11px !important; }
+.label, .label-blue { 
+	display: inline-block; 
+	padding-top: 0.16em; 
+	padding-right: 0.42em; 
+	padding-bottom: 0.16em; 
+	padding-left: 0.42em; 
+	margin-right: 0.25rem; 
+	margin-left: 0.25rem; 
+	color: #fff; 
+	text-transform: uppercase; 
+	vertical-align: middle; 
+	background-color: #2869e6; 
+	font-size: 11px !important; }
 @media (min-width: 31.25rem) { .label, .label-blue { font-size: 12px !important; } }
 
 .label-green { background-color: #009c7b; }
