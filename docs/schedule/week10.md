@@ -7,15 +7,15 @@
 
 ## Thursday, 
 
-### Week X Assignments - Due Tuesday at 12pm
+## Week 10 Assignments - Due Tuesday at 12pm
 
 
-#### Blog post #X 
+### Blog post #X 
 Description
 
 **Specs:** 
 
-#### Activity log #X - 
+### Activity log #10 - 
 Description
 
 **Specs:** 

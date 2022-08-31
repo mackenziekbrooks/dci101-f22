@@ -27,16 +27,16 @@ nav:
     - Policies: policies.md
     - Protocols: protocols.md
   - Schedule:
-    - Week 1: schedule/week1.md
-    - Week 1 w/ jury duty: schedule/week1-juryduty.md
-    - Week 2: schedule/week2.md
-    - Week 3: schedule/week3.md
-    - Week 4: schedule/week4.md
-    - Week 5: schedule/week5.md
-    - Week 6: schedule/week6.md
-    - Week 7: schedule/week7.md
-    - Week 8: schedule/week8.md
-    - Week 9: schedule/week9.md    
+    - Week 1: schedule/week01.md
+    - Week 1 w/ jury duty: schedule/week01-juryduty.md
+    - Week 2: schedule/week02.md
+    - Week 3: schedule/week03.md
+    - Week 4: schedule/week04.md
+    - Week 5: schedule/week05.md
+    - Week 6: schedule/week06.md
+    - Week 7: schedule/week07.md
+    - Week 8: schedule/week08.md
+    - Week 9: schedule/week09.md    
     - Week 10: schedule/week10.md
     - Week 11: schedule/week11.md
     - Week 12: schedule/week12.md

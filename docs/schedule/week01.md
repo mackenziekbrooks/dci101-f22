@@ -7,9 +7,12 @@ In our first week, let's unpack what we even mean by digital culture and informa
 
 Agenda:
 
+* Before class, take this getting to know you [survey](https://docs.google.com/forms/d/e/1FAIpQLSdGpO7cQLQTw3sfEPQElA3mAREaTxNF_m6FM3H5X7AP0bSdLQ/viewform?usp=sf_link).
 * ice breaker: what is your earliest memory of the internet?
 * syllabus day/course overview
 * Activity 1.1 - HTML
+	* Let's build a basic webspage using HTML. We'll go through the process live in class.
+	* Use the [W3 Schools](https://www.w3schools.com/html/) if you need to look something up. 
 
 
 ### Read for Tuesday
@@ -20,9 +23,9 @@ Agenda:
 
 
 ## Tuesday, September 13
-* ice breaker: 
+* [ice breaker generator](https://mackenziekbrooks.github.io/icebreaker-generator/)
 * Discussion - what is culture? information? digital? Let's work on defining terms and understanding how they fit together. 
-* Activity 1.2 - WordPress setup
+* Activity 1.2 - Domain + WordPress setup
 
 
 ### Read for Thursday
@@ -55,12 +58,14 @@ What brought you to this class? How do you relate to digital culture and informa
 
 ### Activity log #1 - the internet's earliest memory of you
 
-At the beginning of this course, I asked you your earliest memory of the internet. For this activity, let's turn that question around. What is the internet's earliest memory of you? Write a short biography of yourself using information that can be found online about you, preferably in public with no logging in. Use Google and the [Wayback Machine](https://archive.org/web/) to search for youself and anything in your web history. What can you find? What *can't* you find? What is surprising? What has been erased? 
+At the beginning of this course, I asked you your earliest memory of the internet. For this activity, let's turn that question around. What is the internet's earliest memory of you? Think back to Ian Mulligan's story about Warhammer in the 1990s. 
+
+Write a short biography of yourself using information that can be found online about you, preferably in public with no logging in. Use Google and the [Wayback Machine](https://archive.org/web/) to search for youself and anything in your past life on the web. What can you find? What *can't* you find? What is surprising? What has been erased? 
 
 After you've dug around and composed the bio, let's hear a little about the process. What was easy to find? Difficult? How has your web presence changed over time? What were you taught about using the internet with respect to privacy and how have your thoughts changed over time? How much of the content was on social media vs. another site (your school, team, etc)? If a researcher from the future is trying to learn about you, what are they missing out on? 
 
 **Specifications:** 
 
 * Create a WordPress page, then turn in the URL in Canvas. If you feel more comfortable keeping this page private, that's fine, just include the password when you submit.
-* 50-100 word bio. 250-500 words on process. 
-* Include links and images as you're comfortable. If you do not want to link to an old webpage, consider a screenshot. 
+* 50-100 word bio. 150-300 words on process. 
+* Include links and images as you're comfortable. If you do not want to link to an old webpage (for privacy, embarassment, etc), consider a small screenshot. 
