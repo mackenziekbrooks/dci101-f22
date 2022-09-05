@@ -2,7 +2,7 @@
 
 *They're seemingly everywhere, influencing all your decisions. What to buy, who to date, what to watch, who to hire? Algorithm is a common enough word these days, but do we know what they are? What they do? Can we blame everything on the algorithm? What about AI or machine learning? Oh and what about ethics?* 
 
-### Read for Tuesday: 
+## Read for Tuesday: 
 * [Intro to Algorithms](https://www.youtube.com/watch?v=rL8X2mlNHPM) - Crash Course
 * [How Search Works](https://www.google.com/search/howsearchworks/)
 
@@ -22,7 +22,7 @@
 		* Where do the problems lie? Where could bias enter? 
 		* Suggest some alterations to the way this platform functions. 
 
-### Read for Thursday:
+## Read for Thursday:
 * [Intro to Artificial Intelligence](https://www.youtube.com/watch?v=rL8X2mlNHPM) - Crash course
 * [Cathy O'Neil Ted Talk](https://www.youtube.com/watch?v=_2u_eHHzRto)
 * [Crime Prediction Software Promised to be Free of Biases. New Data Shows It Perpetuates Them](https://themarkup.org/prediction-bias/2021/12/02/crime-prediction-software-promised-to-be-free-of-biases-new-data-shows-it-perpetuates-them) - The Markup (also pay attention to the format/experience of this piece!)
@@ -38,16 +38,16 @@
 ### Blog post #3 
 Let’s start brainstorming about potential project topics. What are you interested in? What’s compelling about your major/minor? How do DCI concepts fit into that topic? If you don't have a major/minor yet, could this be a way to explore a topic related to a potential area of interest? Maybe you want to dive into something you haven't had a chance to explore in college yet. Think broadly! 
 
-Next, what questions do you have about that topic? Take a look at the [final project description](../assignments.md/#digital-essay) to get a sense of what you'll be doing with the digital essay. 
+Next, what questions do you have about that topic? Take a look at the [final project description](../../assignments/#digital-essay) to get a sense of what you'll be doing with the digital essay. 
 
 **Specs:** 
-
+	
 * Create a WordPress post, turn in the link on Canvas.
 * 300-500 words.
 * Free from grammatical errors, typos. 
 * Credit and link out to sources when appropriate. I won't require that you use a certain citation style, but you should be in the habit of crediting sources and using in-text links. If you feel better about using a formal citation style, go for it! 
 
-### Activity log #3 - 
+### Activity log #3  
 Description
 
 **Specs:** 

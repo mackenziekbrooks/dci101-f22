@@ -5,7 +5,7 @@
 
 ## Tuesday, October 11, 2022
 * Prof. Brooks at a conference
-* Guest classby Prof. Emily Cook (Research and Instruction Librarian)
+* Guest class by Prof. Emily Cook (Research and Instruction Librarian)
 
 ## Thursday, October 13, 2022
 * No class! Reading days!
@@ -15,12 +15,14 @@
 
 ### Project: Annotated Bibliography
 
+See [assignment description](../../assignments/#annotated-bibliography).
+
 ### Blog post #5
 Description
 
 **Specs:** 
 
-### Activity log #5 - 
+### Activity log #5
 Description
 
 **Specs:** 

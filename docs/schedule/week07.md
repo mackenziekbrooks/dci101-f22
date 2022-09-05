@@ -3,6 +3,7 @@
 
 ### Read for Tuesday:
 
+* [Text Analysis Coursebook](http://walshbr.com/textanalysiscoursebook/)
 
 ## Tuesday, October 25, 2022
 
@@ -10,15 +11,15 @@
 
 ## Thursday, October 27, 2022
 
-## Week X Assignments - Due Tuesday at 12pm
+## Week 7 Assignments - Due Tuesday at 12pm
 
 
-### Blog post #X 
+### Blog post #7
 Description
 
 **Specs:** 
 
-### Activity log #X - 
+### Activity log #7 
 Description
 
 **Specs:** 

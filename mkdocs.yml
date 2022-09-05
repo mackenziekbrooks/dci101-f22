@@ -24,6 +24,7 @@ markdown_extensions:
 nav:
   - Course Info:
     - Course info: index.md
+    - Domain: domain.md
     - Policies: policies.md
     - Protocols: protocols.md
   - Schedule:

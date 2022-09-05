@@ -36,7 +36,7 @@ Agenda:
 
 
 ## Thursday, September 15
-* Course charter
+* [Course charter](https://wlu.app.box.com/notes/1006919614789)
 * Discussion - How did we get here? How do we study the internet? 
 * Activity 1.3 - WordPress Pt 2
 

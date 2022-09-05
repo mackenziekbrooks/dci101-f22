@@ -16,14 +16,12 @@
 
 ## Week 6 Assignments - Due Tuesday at 12pm
 
-### Project: Annotated Bibliography
-
-### Blog post #X 
+### Blog post #6 
 Description
 
 **Specs:** 
 
-### Activity log #X - 
+### Activity log #6 
 Description
 
 **Specs:** 

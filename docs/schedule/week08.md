@@ -10,8 +10,9 @@
 
 ## Thursday, November 3, 2022
 
-## Week X Assignments - Due Tuesday at 12pm
+## Week 8 Assignments
 
+**Due Tuesday at 12pm**
 
 ### Blog post #8 
 Description

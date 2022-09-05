@@ -1,7 +1,7 @@
 # Week 4 - Data
 *Sure big data is nice, but have you ever tried handcrafted artisanal data? This week we’ll learn how data is made by creating it from scratch.*
 
-### Read for Tuesday: 
+## Read for Tuesday: 
 
 * [Data](https://mackenziekbrooks.github.io/humanities-data/data/) - DCI 102 Coursebook
 * [Defining Data for Humanities](http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/) - Owens
@@ -21,7 +21,7 @@
         * How could you use Open Refine to clean up the data you created?
 
 
-### Read for Thursday:
+## Read for Thursday:
 * [What Gets Counted Counts](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3) - D'Ignazio and Klein
 * [Data + Design](https://trinachi.github.io/data-design-builds/ch17.html) - Chapter 17
 
