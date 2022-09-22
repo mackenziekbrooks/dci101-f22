@@ -23,9 +23,10 @@ Agenda:
 
 
 ## Tuesday, September 13
-* [ice breaker generator](https://mackenziekbrooks.github.io/icebreaker-generator/)
-* Discussion - what is culture? information? digital? Let's work on defining terms and understanding how they fit together. 
-* Activity 1.2 - Domain + WordPress setup
+* What piece of technology do you wish were real?
+* Discussion - what is culture? information? digital? Let's work on defining terms and understanding how they fit together.
+* Let's use this [Jamboard](https://jamboard.google.com/d/1AV7FrID30txMpCNaObucWy68Z9bqNhaa3iNYva8NfWo/edit?usp=sharing) for today.
+* Activity 1.2 - Domain + WordPress setup, see [instructions](https://mackenziekbrooks.github.io/dci101-f22/domain/#domain-instructions)
 
 
 ### Read for Thursday
@@ -36,8 +37,11 @@ Agenda:
 
 
 ## Thursday, September 15
-* [Course charter](https://wlu.app.box.com/notes/1006919614789)
-* Discussion - How did we get here? How do we study the internet? 
+* Discussion
+	* what is (digital) culture? 2 min paper
+	* [Geocities](https://geocities.restorativland.org/) deep dive - What can you learn about internet culture from exploring these sites? 
+	* What do Milligan and Tolentino and Ayers say?  	 
+* Assignment overview 
 * Activity 1.3 - WordPress Pt 2
 
 
@@ -47,7 +51,7 @@ Agenda:
 
 ### Blog post #1
 
-What brought you to this class? How do you relate to digital culture and information in your personal life? Academic life? What do you find most interesting? Concerning? What personal goals do you have for this class - skills you want to develop or topics you want to explore? What will success look like *for you*, beyond just an A? 
+What brought you to this class? How do our definitions of digital culture and information relate your personal life? Academic life? What do you find most interesting about issues around DCI? Concerning? What personal goals do you have for this class - skills you want to develop or topics you want to explore? What will success look like *for you*, beyond just an A? 
 
 **Specifications:**
 
@@ -60,7 +64,7 @@ What brought you to this class? How do you relate to digital culture and informa
 
 At the beginning of this course, I asked you your earliest memory of the internet. For this activity, let's turn that question around. What is the internet's earliest memory of you? Think back to Ian Mulligan's story about Warhammer in the 1990s. 
 
-Write a short biography of yourself using information that can be found online about you, preferably in public with no logging in. Use Google and the [Wayback Machine](https://archive.org/web/) to search for youself and anything in your past life on the web. What can you find? What *can't* you find? What is surprising? What has been erased? 
+Write a short biography of yourself using only information that can be found online about you, preferably in public with no logging in. Use Google and the [Wayback Machine](https://archive.org/web/) to search for youself and anything in your past life on the web. What can you find? What *can't* you find? What is surprising? What has been erased? 
 
 After you've dug around and composed the bio, let's hear a little about the process. What was easy to find? Difficult? How has your web presence changed over time? What were you taught about using the internet with respect to privacy and how have your thoughts changed over time? How much of the content was on social media vs. another site (your school, team, etc)? If a researcher from the future is trying to learn about you, what are they missing out on? 
 

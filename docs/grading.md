@@ -3,9 +3,9 @@ The assignment and grading structure for this course might be a little different
 
 So rather than assign points or grades, I will mark each assignment as Complete/Incomplete according to a set of specifications. 
 
-You must complete a certain number of assignments in each category to receive the corresponding grade, as seen in the table below. This means that your grade is always going up as you complete more assignments. It also means that you must complete the requisite number of assignments in each category to get the grade. For example, if you complete all 11 blog posts, but only 4 project pieces, you will still earn a B-. 
+You must complete a certain number of assignments in each category to receive the corresponding grade, as seen in the table below. This means that your grade is always going up as you complete more assignments. It also means that you must complete the requisite number of assignments in each category to get the grade. 
 
-You will use Canvas to turn in assignments and to receive feedback. I will mark your assignments as complete/incomplete, however! Canvas will not be able to calculate your current grade with this system. You should rely on this page or this [handout](../assets/specs-grading-sheet.docx) (right click, save as) to help calculate your grade. 	
+You will use Canvas to turn in assignments and to receive feedback. I will mark your assignments as complete/incomplete, however! Canvas will not be able to calculate your current grade with this system.  	
 
 This is a lot to get used to at first, so please ask any questions you have early in the semester. We will do a midterm check-in so you have a good understanding of where you are. 
 

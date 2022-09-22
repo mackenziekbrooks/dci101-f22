@@ -7,6 +7,9 @@
 
 ## Tuesday, October 25, 2022
 
+* icebreaker
+* 
+
 ### Read for Thursday:
 
 ## Thursday, October 27, 2022
