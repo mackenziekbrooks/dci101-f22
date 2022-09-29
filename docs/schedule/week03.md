@@ -4,25 +4,27 @@
 
 ## Read for Tuesday: 
 * [Intro to Algorithms](https://www.youtube.com/watch?v=rL8X2mlNHPM) - Crash Course
-* [Cathy O'Neil Ted Talk](https://www.youtube.com/watch?v=_2u_eHHzRto) - pay attention to the algorithm audit section toward the 
-* [How Search Works](https://www.google.com/search/howsearchworks/)
-* [Missed Connections: What Search Engines Say About Women](https://safiyaunoble.files.wordpress.com/2012/03/54_search_engines.pdf)
+* [Cathy O'Neil Ted Talk](https://www.youtube.com/watch?v=_2u_eHHzRto) - pay attention to the algorithm audit section toward the end
+* [How Search Works](https://www.google.com/search/howsearchworks/) - Google
+* [Missed Connections: What Search Engines Say About Women](https://safiyaunoble.files.wordpress.com/2012/03/54_search_engines.pdf) - Safiya Noble
 
 ## Tuesday, September 27, 2022
+* OH NO I HAVE ANOTHER JURY DUTY SUMMONS
 * icebreaker:
-* What is an algorithm? 
-* Readings discussion
+* week 2 follow up 
+* What is an algorithm? - readings discussion
 * Activity: let's audit an algorithm. Each team will be assigned a platform (Netflix, TikTok, Instagram, YouTube).
 	1. Create a Boxnote in our [folder](https://wlu.app.box.com/folder/171015777816) for your team. 
 	2. Work together to answer the following: 
 		* Who created this platform? Who owns it? Are those the same thing?
+		* What is the goal of this platform?
 		* Where does the money come from? 
-		* Where does the content come from? Are creators paid? Do they own their creations? 
+		* Where does the content come from? Are creators paid?  Do they own their creations? How do you know?
 		* Give me a brief idea of the user experience. What happens on this platform? How does your experience of the platform differ from your classmates'? 
 		* Where do you suspect algorithms are working? How do you know? What are they doing? Let's employ Cathy O'Neil's audit:
 			* data integrity - can we trust the data being used?
 			* what is this platform's definition of success?
-			* accuracy - are there errors? how often? for whom does this mdoel fail?
+			* accuracy - are there errors? how often? for whom does this model fail? what is the cost of failure?
 			* long-term effects and feedback loops 
 
 ## Read for Thursday:
@@ -34,7 +36,8 @@
 ## Thursday, September 29, 2022
 * icebreaker:
 * readings discussion - AI & machine learning 
-* [craiyon time](https://www.craiyon.com/)
+	* [craiyon time](https://www.craiyon.com/)
+* your article!
 * project chat 
 
 ## Week 3 Assignments - Due Tuesday at 12pm

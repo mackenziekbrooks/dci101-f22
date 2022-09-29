@@ -9,7 +9,7 @@
 * If you want more on the history of the internet, try this [Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)
 
 ## Tuesday, September 20, 2022
-* icebreaker:
+* icebreaker: lesson learned about W&L
 * Recap Activity log #1 
 * How the Web Works
 * HTML + CSS! 
@@ -23,7 +23,7 @@
 
 
 ## Thursday, September 22, 2022
-* icebreaker:
+* icebreaker: favorite sandwich?
 * What does it mean to be a "digital native?" 
 * [Course charter](https://wlu.app.box.com/notes/1006919614789)
 * More HTML/CSS 
